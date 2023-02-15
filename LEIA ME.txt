@@ -1,1 +1,0 @@
-A INDEX pode ser utilizada para construções de sites e sistemas, o boostrap4 já está configurado para usar 
